@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 # Vagrant
 .vagrant
+<<<<<<< HEAD
+=======
+nohup.out
+>>>>>>> 843c249d3b949c413b981e139c1983c419c261e9
