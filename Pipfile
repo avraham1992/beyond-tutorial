@@ -4,9 +4,15 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+<<<<<<< HEAD
 flake8 = "*"
 
 [packages]
+=======
+
+[packages]
+django = "*"
+>>>>>>> e5cd0ae8924e60f8d3ffc1b0ab73a0fe854dfe05
 
 [requires]
 python_version = "3.8"
