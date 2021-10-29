@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 # Vagrant
 .vagrant
+db.sqlite3
 <<<<<<< HEAD
 =======
 nohup.out
